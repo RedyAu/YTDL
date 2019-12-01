@@ -14,3 +14,12 @@ Copyright and things
 These executable files are just copies. If you don't trust, you can download those from there :D
 - I found the `ffmpeg.exe` and the `ffprobe.exe` at https://ffmpeg.org
 - I found the `youtube-dl.exe` at https://ytdl-org.github.io/youtube-dl/index.html
+
+Filelist
+--------
+The following files are neccessary for working, but the GitHub doesn't let me upload 2 executable for some reason, so you have to download them from the links above. Sry for that.
+- `download.bat`
+- `ffmpeg.exe`
+- `ffprobe.exe`
+- `patch.bat`
+- `youtube-dl.exe`
