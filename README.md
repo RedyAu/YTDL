@@ -9,6 +9,8 @@ The script will download it, convert and save it into the Music>Today_date folde
 Sometimes there is an error with the downloading, caused by maintance/upgrade at YT.
 The `patch.bat` will solve this problem for you, just run it.
 
+UPDATE: now you can recording YT livestreams too! Open the `live-recording.bat`, paste the link, than choose format from the list, type in the choosed number and it's recording in MP4 format. Press Ctrl-C when you want to end the record.
+
 Copyright and things
 --------------------
 These executable files are just copies. If you don't trust, you can download those from there :D
@@ -21,5 +23,6 @@ The following files are neccessary for working, but the GitHub doesn't let me up
 - `download.bat`
 - `ffmpeg.exe`
 - `ffprobe.exe`
+- `live-recording.bat`
 - `patch.bat`
 - `youtube-dl.exe`
