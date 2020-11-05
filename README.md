@@ -15,7 +15,7 @@ Copyright and things
 --------------------
 These executable files are just copies. If you don't trust, you can download those from there :D
 - I found the `ffmpeg.exe` and the `ffprobe.exe` at https://ffmpeg.org
-- I found the `youtube-dl.exe` at https://ytdl-org.github.io/youtube-dl/index.html
+- I found the `youtube-dl.exe` at https://youtube-dl.org/
 
 Filelist
 --------
